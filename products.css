@@ -1,0 +1,43 @@
+
+table {
+    width: 100%;
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  line-height: 80%;
+}
+
+td,
+th {
+  border: none;
+  text-align: left;
+  padding: 8px;
+}
+
+table th {
+  text-align: left;
+  color: gray;
+}
+
+table td {
+  font-weight: bold;
+}
+
+table a {
+  color: black;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+table a:hover {
+    color: orange;
+}
+.amount{
+    background: #F5DEB3;
+}
+
+h2 {
+font-size: 150%;
+margin: 5px 0;
+text-align: center;
+width: 100%;
+}
